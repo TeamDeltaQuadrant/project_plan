@@ -31,6 +31,9 @@
 
 *learning expectancy:* getting to know the tumblr API and the interaction with diaspora, learning about the possibilities and restrictions that come with that API
 
+### Other interessting Issues
+* *autocompletion for tags in posts* [#6076](https://github.com/diaspora/diaspora/issues/6076)
+
 ###We also propose:
 to create a docker file or vagrant file for the development environment to make it easier for us and potential new contributors to get started
 
